@@ -26,7 +26,7 @@ class Armstrong
 			}
 			if(countr==2)
 			{
-				System.out.println("Armstrong and prime");
+				System.out.println("Armstrong and also prime");
 			}
 			else
 			{
